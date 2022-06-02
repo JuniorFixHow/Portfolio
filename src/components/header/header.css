@@ -91,7 +91,7 @@ header{
     }
 }
 
-@media screen and (max-width:720px) {
+@media screen and (max-width:650px) {
     header{
         height: 100vh;
     }
@@ -101,7 +101,7 @@ header{
 
     .me{
         width: 20rem;
-        height: 55rem;
+        height: 40rem;
         left: calc(50% - 10rem);
     }
 }
