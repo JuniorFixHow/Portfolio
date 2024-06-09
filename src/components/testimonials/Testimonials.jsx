@@ -22,7 +22,7 @@ const data = [
     id:2,
     avatar: AVT2,
     name: 'Solomon Mensah',
-    review: 'I am his lecturer at the university and I once tasked him to create an online portal to track the working progress of my emplyees. He was so superb!'
+    review: 'I was his lecturer at the university and I once tasked him to create an online portal to track the working progress of my emplyees. He was so superb!'
   },
   {
     id:3,
@@ -34,7 +34,13 @@ const data = [
     id:4,
     avatar: AVT4,
     name: 'Kofi Sarpong',
-    review: 'I am his lecturer. He was my intern when he was in the 2nd year at the university. He did not develop any software per say, but his contributions to the project at hand was so positive'
+    review: 'I was his lecturer. He was my intern when he was in the 2nd year at the university. He did not develop any software per se, but his contributions to the project at hand was so positive'
+  },
+  {
+    id:4,
+    avatar: AVT4,
+    name: 'Bismark Adjei',
+    review: 'I needed a system to track the attendance of my workers at the workplace and he created a mobile app and a website. The app was used by the workers and the site was used by me as an admin dashboard'
   },
 ]
 

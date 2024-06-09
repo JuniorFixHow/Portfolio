@@ -11,29 +11,29 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Ms Office Database</h3>
+            <h3>Desktop Applications</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Access Database for schools</p>
+              <p>Database Software for schools</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Access Database for churhes</p>
+              <p>Database Software for churhes</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Access Database for banks</p>
+              <p>Database Software for banks</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Excel Database for personal expenses</p>
+              <p>Database Software for personal expenses</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Excel Database for small businesses</p>
+              <p>Point of Sales for businesses</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -59,7 +59,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Food Delivery Web apps</p>
+              <p>Admin Dashboards</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -105,11 +105,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Social Media apps for privvate organizations</p>
+              <p>Social Media apps for private organizations</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Personal Expenditure Management app</p>
+              <p>Expenditure Management app</p>
             </li>
           </ul>
         </article>

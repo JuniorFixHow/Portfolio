@@ -34,12 +34,12 @@ const Nav = () => {
             >
                 <RiServiceLine/>
             </a>
-            <a href="#portfolio"
+            {/* <a href="#portfolio"
             onClick={()=>setActiveNav('#portfolio')}
             className={activeNav==='#portfolio' ? 'active':''}
             >
                 <FaUserGraduate/>
-            </a>
+            </a> */}
             <a href="#testimonials"
             onClick={()=>setActiveNav('#testimonials')}
             className={activeNav==='#testimonials' ? 'active':''}
